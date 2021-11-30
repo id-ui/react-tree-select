@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react';
+import React from 'react';
 import { Container } from './styled';
 
 function SearchTreeLeaf({
@@ -14,22 +14,14 @@ function SearchTreeLeaf({
   className,
   ...props
 }) {
-  const handleClick = useCallback(() => {
+  const handleClick = () => {
     if (!hasChildren || canSelectParentNode) {
       onSelect(props[valueKey]);
       if (closeOnSelect) {
         return close();
       }
     }
-  }, [
-    hasChildren,
-    canSelectParentNode,
-    close,
-    onSelect,
-    closeOnSelect,
-    valueKey,
-    props,
-  ]);
+  };
 
   return (
     <Container

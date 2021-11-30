@@ -1,6 +1,6 @@
 {
   "name": "@idui/react-tree-select",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React TreeSelect Component",
   "author": "kaprisa57@gmail.com",
   "license": "MIT",
@@ -91,7 +91,7 @@
   ],
   "dependencies": {
     "@idui/react-inputs": "^1.1.11",
-    "@idui/react-popover": "^1.2.4",
+    "@idui/react-popover": "^1.2.5",
     "@idui/react-tree": "^1.2.7",
     "prop-types": "^15.7.2",
     "styled-components": "^5.2.1",

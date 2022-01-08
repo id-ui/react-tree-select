@@ -1187,10 +1187,10 @@
   resolved "https://registry.yarnpkg.com/@icons/material/-/material-0.2.4.tgz#e90c9f71768b3736e76d7dd6783fc6c2afa88bc8"
   integrity sha512-QPcGmICAPbGLGb6F/yNf/KzKqvFx8z5qx3D1yFqVAjoFmXK35EgyW+cJ57Te3CNsmzblwtzakLGFqHPqrfb4Tw==
 
-"@idui/react-collapse@^2.0.10":
-  version "2.0.10"
-  resolved "https://registry.yarnpkg.com/@idui/react-collapse/-/react-collapse-2.0.10.tgz#19ba7746cf3d83792aa1afc9dc5b24019d2dc7d6"
-  integrity sha512-RJQEJeiOfr8ousCuMBrFjgdOlKAVN3j1HgoDPcRsV+07unbPknLKtZ0mRKdaW9FqrjUeueOUuMTGt7YT/JBBrA==
+"@idui/react-collapse@^2.0.12":
+  version "2.0.12"
+  resolved "https://registry.yarnpkg.com/@idui/react-collapse/-/react-collapse-2.0.12.tgz#e62d2ee7f22112a5429493dd3f1583f7669a3a70"
+  integrity sha512-TzIuriZGkvy8pKdNXefxVrSBOZsgYFuer/nF4yO6SBxYLOGR/6y55WzCEh59ZDxzIKrRJYv6RTz72wL5XpNlWg==
   dependencies:
     framer-motion "^2.9.5"
     lodash "^4.17.20"
@@ -1205,10 +1205,10 @@
     styled-components "^5.2.1"
     styled-tools "^1.7.2"
 
-"@idui/react-inputs@^1.1.11":
-  version "1.1.11"
-  resolved "https://registry.yarnpkg.com/@idui/react-inputs/-/react-inputs-1.1.11.tgz#a93bd77b564110cf3a57b46b08f6a6c288a67200"
-  integrity sha512-zcXRLjYshxWmKZLjV6UXtKGRwR3idyMEpElUD+9JBALXP2nFWCqFIh8eN+UuRC4C694K+eTO6wO0NIV6dIgsoA==
+"@idui/react-inputs@^1.1.2":
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/@idui/react-inputs/-/react-inputs-1.1.12.tgz#28d772429e36ca879136775d03edbbce0384f922"
+  integrity sha512-oFN61DuI2EEm4xgJyM86trJvYrmCgjfgdNbAAN8FG/tGFfZskrW4TL6R8Pg+l3ISuDpOZrJP5MNKoKc8zgNuqw==
   dependencies:
     "@idui/react-icon" "^1.0.5"
     "@idui/react-mask-input" "^1.2.1"
@@ -1226,10 +1226,10 @@
     styled-components "^5.2.1"
     styled-tools "^1.7.2"
 
-"@idui/react-popover@^1.2.5":
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/@idui/react-popover/-/react-popover-1.2.5.tgz#4c3bd7eb8b941705814abe9db2d9ec0506f01516"
-  integrity sha512-P1Sb5avSFnHg+1tDzq6XoonOMUsjrZBXDsJmX+t0Fd/Ne3N+sXqzCOwHdYlNLwociH/vH+WMyNeZUrc1FKsobQ==
+"@idui/react-popover@^1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@idui/react-popover/-/react-popover-1.2.6.tgz#3472add106b44524da02c71a7518d66fa16e76e8"
+  integrity sha512-peLeCmeIVnLyylIiDYDWx3YueCMt5meniChjh03lqo4KsX/8fftWCc+TZdw7pFAIq0DzKUfxzUsNn/UM7Ct9fA==
   dependencies:
     framer-motion "^1.11.1"
     lodash "^4.17.20"
@@ -1237,22 +1237,22 @@
     styled-components "^5.2.1"
     styled-tools "^1.7.2"
 
-"@idui/react-toggle-controls@^1.1.6":
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/@idui/react-toggle-controls/-/react-toggle-controls-1.1.6.tgz#cf9be74efcc83200aaaabc105552627c8ce25f7f"
-  integrity sha512-8L2ybzzEIH6cSq+ep1ak9RHa/NM1QEMnFqj7jayNkpOWQfeY71HVwwtQOaclHllBXyPCt6PAhAt6ZZ2iDpvEnQ==
+"@idui/react-toggle-controls@^1.1.7":
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/@idui/react-toggle-controls/-/react-toggle-controls-1.1.7.tgz#8ba0959c0eb97dfc82c8a5c9014333972bb9fcc2"
+  integrity sha512-s0ZNAMHcPQ1f9II9MVzapTKJojnW3lv/n29IntCyFdX3hmG4CUAuX67mbcax8z9OVKNFv1PP2SfRgZjqLeIn2Q==
   dependencies:
     prop-types "^15.7.2"
     styled-components "^5.2.1"
     styled-tools "^1.7.2"
 
-"@idui/react-tree@^1.2.7":
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/@idui/react-tree/-/react-tree-1.2.7.tgz#d9bdfb234e92a6f0c0dc16a6437b87255e51ad37"
-  integrity sha512-bIoHx3tu7v7Q7x1b6f8iQpkEegxhcSYFYwDBggSnIwTE9dOL8BBWpHSoiRv+x4YogOgDEYM8ud8oa0vnNbrh7Q==
+"@idui/react-tree@^1.2.9":
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/@idui/react-tree/-/react-tree-1.2.9.tgz#cbabfefa0fd3753b379dee5f2423586f16fe818d"
+  integrity sha512-K1aBfQMs9lK7O1nXembTMmkRg/2vx/BpCS9poHsYoInQaJbmwUpqZOYWPDprV7Jnm2tOSh2lumrJ1ekWmmfjMw==
   dependencies:
-    "@idui/react-collapse" "^2.0.10"
-    "@idui/react-toggle-controls" "^1.1.6"
+    "@idui/react-collapse" "^2.0.12"
+    "@idui/react-toggle-controls" "^1.1.7"
     immer "^8.0.0"
     lodash "^4.17.20"
     prop-types "^15.7.2"
